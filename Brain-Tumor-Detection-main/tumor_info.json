@@ -1,0 +1,38 @@
+{
+  "glioma_tumor": {
+    "name": "Glioma Tumor",
+    "symptoms": "Seizures, headaches, memory loss, personality changes, speech difficulties, vision problems",
+    "treatment": "Surgery, Radiation Therapy, Chemotherapy, Targeted Therapy",
+    "cure_rate": "65%",
+    "severity": "High",
+    "description": "Gliomas are tumors that develop from glial cells in the brain and spinal cord. They can be aggressive and require immediate treatment.",
+    "color": "#dc3545"
+  },
+  "meningioma_tumor": {
+    "name": "Meningioma Tumor",
+    "symptoms": "Vision problems, nausea, behavioral changes, headaches, hearing loss, seizures",
+    "treatment": "Observation, Surgery, Radiation Therapy",
+    "cure_rate": "80%",
+    "severity": "Medium",
+    "description": "Meningiomas are usually benign tumors that develop from the meninges, the protective membranes covering the brain and spinal cord.",
+    "color": "#fd7e14"
+  },
+  "pituitary_tumor": {
+    "name": "Pituitary Tumor",
+    "symptoms": "Hormonal imbalances, vision problems, headaches, fatigue, weight changes",
+    "treatment": "Surgery, Medication, Radiation Therapy",
+    "cure_rate": "85%",
+    "severity": "Medium",
+    "description": "Pituitary tumors affect the pituitary gland and can cause various hormonal problems. Most are benign and treatable.",
+    "color": "#ffc107"
+  },
+  "no_tumor": {
+    "name": "No Tumor Detected",
+    "symptoms": "None",
+    "treatment": "No treatment needed",
+    "cure_rate": "100%",
+    "severity": "None",
+    "description": "No brain tumor was detected in the MRI scan. The brain appears normal.",
+    "color": "#28a745"
+  }
+} 
